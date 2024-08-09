@@ -1,0 +1,14 @@
+.bi {
+font-size: 40px;
+margin-left: 950;
+}
+.nav-link{
+    font-size: 35px;
+}
+.navbar-brand{
+    font-size: 40px;
+    background: linear-gradient(to right,orange,yellow,rgb(237, 162, 24));
+}
+.navbar-nav{
+    margin-left: 1000px;
+}
